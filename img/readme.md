@@ -1,0 +1,1 @@
+用于typoya github图床使用
